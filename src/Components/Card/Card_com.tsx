@@ -5,7 +5,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 import React from 'react';
-import './Card_list.css'
+
 
 interface Props  {
   companyName: string;

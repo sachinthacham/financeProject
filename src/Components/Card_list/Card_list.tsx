@@ -23,8 +23,8 @@ const Card_list: React.FC<Props> = ({}: Props): JSX.Element => {
             image="https://images.unsplash.com/photo-1682687220866-c856f566f1bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw2fHx8ZW58MHx8fHx8"
         />
         <Card_com
-            companyName="WSO2"
-            ticker="WS2" 
+            companyName = "WSO2"
+            ticker = "WS2" 
             price={300}
             paragraph="This is paragraph Three"
             image="https://images.unsplash.com/photo-1707009504605-a772866ac980?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzM3x8fGVufDB8fHx8fA%3D%3D"
